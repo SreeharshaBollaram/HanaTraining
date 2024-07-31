@@ -1,1 +1,1 @@
-# HanaTraining
+# HanaTraining Trainig Readme
